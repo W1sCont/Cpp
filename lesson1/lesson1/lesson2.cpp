@@ -1,6 +1,6 @@
-#include <iostream>
-
-int main() {
+//#include <iostream>
+//
+//int main() {
 
 	/*std::cout << "Hello, world!" << std::endl;
 	int vInt = 10;
@@ -122,9 +122,5 @@ int main() {
 	result = value1 == value2;
 	std::cout << result;*/
 
-	
 
-
-
-
-}
+//}
