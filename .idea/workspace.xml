@@ -23,7 +23,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2c3f57-22a8-4926-92f1-2b3b351be910" name="Changes" comment="lesson 17 task" />
+    <list default="true" id="2d2c3f57-22a8-4926-92f1-2b3b351be910" name="Changes" comment="lesson 17 task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +42,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "W1sCont"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;W1sCont&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/W1sCont/Cpp",
-    "accountId": "32e084bf-087d-47f0-bf11-79e1d38779df"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/W1sCont/Cpp&quot;,
+    &quot;accountId&quot;: &quot;32e084bf-087d-47f0-bf11-79e1d38779df&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lesson15task.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/main.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -93,7 +95,7 @@
     "cidr.known.project.marker": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/ricks/Projects/C++/main.cpp",
     "node.js.detected.package.eslint": "true",
@@ -130,7 +132,7 @@
       <workItem from="1764694579489" duration="7173000" />
       <workItem from="1765386852653" duration="10716000" />
       <workItem from="1765398029036" duration="1368000" />
-      <workItem from="1765474248212" duration="3292000" />
+      <workItem from="1765474248212" duration="3561000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 17">
       <option name="closed" value="true" />
